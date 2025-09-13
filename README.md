@@ -13,7 +13,7 @@ pip install -e .
 ```
 ### 2. Dataset
 
-Load ToothFairy3 Dataset from [https://ditto.ing.unimore.it/toothfairy2/](https://toothfairy3.grand-challenge.org/dataset/)
+Load ToothFairy3 Dataset from [https://ditto.ing.unimore.it/toothfairy3/](https://toothfairy3.grand-challenge.org/dataset/)
 
 ### 3. Preprocessing
 
