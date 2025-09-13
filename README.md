@@ -37,7 +37,7 @@ nnUNetv2_train 301 3d_fullres all -tr nnUNetTrainerNoDA
 
 ### 4. Inference
 
-Train by nnUNetv2. 
+Test by nnUNetv2 with post-processing. 
 
 Run script:
 
